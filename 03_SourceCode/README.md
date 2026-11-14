@@ -1,15 +1,5 @@
-# Medical Insurance Cost Prediction
+# Mã nguồn
 
-Bai tap lon mon Hoc may (608807) - DH Xay dung Ha Noi.
+Xem [README trang chủ](../README.md) để biết giới thiệu dự án, dữ liệu và hướng dẫn cài đặt.
 
-## Cai dat
-python3 -m venv venv
-source venv/bin/activate.fish
-pip install -r requirements.txt
-
-## Chay
-1. Mo notebooks/01_EDA_Preprocessing.ipynb, sau do 02_Modeling_Evaluation.ipynb
-2. Du doan mau moi: python predict.py
-
-## Du lieu
-Nguon: (ghi link dataset tai day)
+Hai notebook trong `notebooks/` hiện chưa có nội dung; `predict.py` cũng chưa được triển khai. Sau khi cài các thư viện trong `requirements.txt`, có thể mở Jupyter từ thư mục gốc dự án bằng `jupyter notebook` để bắt đầu xây dựng phân tích.
